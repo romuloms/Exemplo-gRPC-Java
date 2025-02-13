@@ -1,5 +1,5 @@
-br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$3.class
 br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$ContatosBaseDescriptorSupplier.class
+br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$3.class
 br/ufs/dcomp/ExemplogRPCJava/Contato.class
 br/ufs/dcomp/ExemplogRPCJava/Empty.class
 br/ufs/dcomp/ExemplogRPCJava/ServerContatos.class
@@ -11,13 +11,13 @@ br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$1.class
 br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$ContatosStub.class
 br/ufs/dcomp/ExemplogRPCJava/ClientContatos.class
 br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$ContatosImplBase.class
-br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$ContatosBlockingStub.class
 br/ufs/dcomp/ExemplogRPCJava/StatusOrBuilder.class
+br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$ContatosBlockingStub.class
 br/ufs/dcomp/ExemplogRPCJava/Status$Builder.class
 br/ufs/dcomp/ExemplogRPCJava/CodigoDeStatus.class
+br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$ContatosMethodDescriptorSupplier.class
 br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$2.class
 br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$MethodHandlers.class
-br/ufs/dcomp/ExemplogRPCJava/ContatosGrpc$ContatosMethodDescriptorSupplier.class
 br/ufs/dcomp/ExemplogRPCJava/Contato$Builder.class
 br/ufs/dcomp/ExemplogRPCJava/Contato$1.class
 br/ufs/dcomp/ExemplogRPCJava/CodigoDeStatus$1.class

@@ -20,15 +20,31 @@ public class ClientContatos {
  
         // Criação de um novo contato
         Contato contato = Contato.newBuilder()
-          .setNick("tarcisio")
-          .setNome("Tarcisio da Rocha")
-          .setEmail("tarcisio@dcomp.ufs.br")
+          .setNick("romulindo")
+          .setNome("Romulo da Rocha")
+          .setEmail("romulo@dcomp.ufs.br")
           .setTelefone("79 3194-6678")
           .build();
         
+        Contato contato2 = Contato.newBuilder()
+          .setNick("heitora")
+          .setNome("Saulo da Rocha")
+          .setEmail("saulinho@dcomp.ufs.br")
+          .setTelefone("79 3194-6678")
+          .build();
+          
+        Contato contato3 = Contato.newBuilder()
+          .setNick("peludinho")
+          .setNome("Peludão da Rocha")
+          .setEmail("peludinho@dcomp.ufs.br")
+          .setTelefone("79 3194-6678")
+          .build();
+          
         // Inserção do novo contato no servidor remoto
         System.out.print("Adicionando contato...");
         Status status = stub.addContato(contato);
+        stub.addContato(contato2);
+        stub.addContato(contato3);
         System.out.println("OK!");
 
         // Listagem de todos os contatos do servidor
